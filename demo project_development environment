@@ -1,0 +1,6 @@
+.NET Desktop development (V)
+Desktop Development Using C++ (V)
+Universal windows platform development (V) 
+  -> choose C++ (v143) universal windows platform tool
+  -> choose Windows 10 SDK (10.0.19041.0)
+  -> C++ MFC (x86 & x64) for latest v143 build tools
